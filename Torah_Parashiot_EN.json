@@ -1,0 +1,380 @@
+[
+{
+"ID": 1,
+"Book": "Bereshit (Genesis)",
+"Week Number": 1,
+"Parasha": "Bere’shit, בראשית",
+"Biblical Portion": "Gen 1:1 - 6:8"
+},
+{
+"ID": 2,
+"Book": "Bereshit (Genesis)",
+"Week Number": 2,
+"Parasha": "Noach, נח",
+"Biblical Portion": "Gen 6:9 - 11:32"
+},
+{
+"ID": 3,
+"Book": "Bereshit (Genesis)",
+"Week Number": 3,
+"Parasha": "Lech Lecha, לך לך",
+"Biblical Portion": "Gen 12:1 - 17:27"
+},
+{
+"ID": 4,
+"Book": "Bereshit (Genesis)",
+"Week Number": 4,
+"Parasha": "Vayeira, וירא",
+"Biblical Portion": "Gen 18:1 - 22:24"     
+},
+{
+"ID": 5,
+"Book": "Bereshit (Genesis)",
+"Week Number": 5,
+"Parasha": "Chayei Sarah, חיי שרה",
+"Biblical Portion": "Gen 23:1 - 25:18"
+},
+{
+"ID": 6,
+"Book": "Bereshit (Genesis)",
+"Week Number": 6,
+"Parasha": "Toledot, תולדות",
+"Biblical Portion": "Gen 25:19 - 28:9"
+},
+{
+"ID": 7,
+"Book": "Bereshit (Genesis)",
+"Week Number": 7,
+"Parasha": "Vayetze, ויצא",
+"Biblical Portion": "Gen 28:10 - 32:3"
+},
+{
+"ID": 8,
+"Book": "Bereshit (Genesis)",
+"Week Number": 8,
+"Parasha": "Vayishlach, וישלח",
+"Biblical Portion": "Gen 32:4 - 36:43"
+},
+{
+"ID": 9,
+"Book": "Bereshit (Genesis)",
+"Week Number": 9,
+"Parasha": "Vayeshev, וישב",
+"Biblical Portion": "Gen 37:1 - 40:23"
+},
+{
+"ID": 10,
+"Book": "Bereshit (Genesis)",
+"Week Number": 10,
+"Parasha": "Miketz, מקץ",
+"Biblical Portion": "Gen 41:1 - 44:17"
+},
+{
+"ID": 11,
+"Book": "Bereshit (Genesis)",
+"Week Number": 11,
+"Parasha": "Vayigash, ויגש",
+"Biblical Portion": "Gen 44:18 - 47:27"
+},
+{
+"ID": 12,
+"Book": "Bereshit (Genesis)",
+"Week Number": 12,
+"Parasha": "Vayechi, ויחי",
+"Biblical Portion": "Gen 47:28 - 50:26"
+},
+{
+"ID": 13,
+"Book": "Shemot (Exodus)",
+"Week Number": 13,
+"Parasha": "Shemot, שמות",
+"Biblical Portion": "Ex 1:1 - 6:1"
+},
+{
+"ID": 14,
+"Book": "Shemot (Exodus)",
+"Week Number": 14,
+"Parasha": "Va’eira, וארא",
+"Biblical Portion": "Ex 6:2 - 9:35"
+},
+{
+"ID": 15,
+"Book": "Shemot (Exodus)",
+"Week Number": 15,
+"Parasha": "Bo, בא",
+"Biblical Portion": "Ex 10:1 - 13:16"
+},
+{
+"ID": 16,
+"Book": "Shemot (Exodus)",
+"Week Number": 16,
+"Parasha": "Beshalach, בשלח",
+"Biblical Portion": "Ex 13:17 - 17:16"
+},
+{
+"ID": 17,
+"Book": "Shemot (Exodus)",
+"Week Number": 17,
+"Parasha": "Yitro, יתרו",
+"Biblical Portion": "Ex 18:1 - 20:23"
+},
+{
+"ID": 18,
+"Book": "Shemot (Exodus)",
+"Week Number": 18,
+"Parasha": "Mishpatim, משפטים",
+"Biblical Portion": "Ex 21:1 - 24:18"
+},
+{
+"ID": 19,
+"Book": "Shemot (Exodus)",
+"Week Number": 19,
+"Parasha": "Terumah, תרומה",
+"Biblical Portion": "Ex 25:1 - 27:19"
+},
+{
+"ID": 20,
+"Book": "Shemot (Exodus)",
+"Week Number": 20,
+"Parasha": "Tetzaveh, תצווה",
+"Biblical Portion": "Ex 27:20 - 30:10"
+},
+{
+"ID": 21,
+"Book": "Shemot (Exodus)",
+"Week Number": 21,
+"Parasha": "Ki Tisa’, כי תשא",
+"Biblical Portion": "Ex 30:11 - 34:35"
+},
+{
+"ID": 22,
+"Book": "Shemot (Exodus)",
+"Week Number": 22,
+"Parasha": "Vayakhel, ויקהל",
+"Biblical Portion": "Ex 35:1 - 38:20"
+},
+{
+"ID": 23,
+"Book": "Shemot (Exodus)",
+"Week Number": 23,
+"Parasha": "Pekudey, פקודי",
+"Biblical Portion": "Ex 38:21 - 40:38"
+},
+{
+"ID": 24,
+"Book": "Vayikrá (Leviticus)",
+"Week Number": 24,
+"Parasha": "Vayikra’, ויקרא",
+"Biblical Portion": "Lev 1:1 - 5:26"
+},
+{
+"ID": 25,
+"Book": "Vayikrá (Leviticus)",
+"Week Number": 25,
+"Parasha": "Tzav, צו",
+"Biblical Portion": "Lev 6:1 - 8:36"
+},
+{
+"ID": 26,
+"Book": "Vayikrá (Leviticus)",
+"Week Number": 26,
+"Parasha": "Shemini, שמיני",
+"Biblical Portion": "Lev 9:1 - 11:47"
+},
+{
+"ID": 27,
+"Book": "Vayikrá (Leviticus)",
+"Week Number": 27,
+"Parasha": "Tazria, תזריע",
+"Biblical Portion": "Lev 12:1 - 13:59"
+},
+{
+"ID": 28,
+"Book": "Vayikrá (Leviticus)",
+"Week Number": 28,
+"Parasha": "Metzora, מצורע",
+"Biblical Portion": "Lev 14:1 - 15:33"
+},
+{
+"ID": 29,
+"Book": "Vayikrá (Leviticus)",
+"Week Number": 29,
+"Parasha": "Acharei Mot, אחרי מות",
+"Biblical Portion": "Lev 16:1 - 18:30"
+},
+{
+"ID": 30,
+"Book": "Vayikrá (Leviticus)",
+"Week Number": 30,
+"Parasha": "Kedoshim, קדושים",
+"Biblical Portion": "Lev 19:1 - 20:27"
+},
+{
+"ID": 31,
+"Book": "Vayikrá (Leviticus)",
+"Week Number": 31,
+"Parasha": "Emor, אמור",
+"Biblical Portion": "Lev 21:1 - 24:23"
+},
+{
+"ID": 32,
+"Book": "Vayikrá (Leviticus)",
+"Week Number": 32,
+"Parasha": "Behar, בהר",
+"Biblical Portion": "Lev 25:1 - 26:2"
+},
+{
+"ID": 33,
+"Book": "Vayikrá (Leviticus)",
+"Week Number": 33,
+"Parasha": "Bechukotai, בחקותי",
+"Biblical Portion": "Lev 26:3 - 27:34"
+},
+{
+"ID": 34,
+"Book": "Bemidbar (Numbers)",
+"Week Number": 34,
+"Parasha": "Bemidbar, במדבר",
+"Biblical Portion": "Num 1:1 - 4:20"
+},
+{
+"ID": 35,
+"Book": "Bemidbar (Numbers)",
+"Week Number": 35,
+"Parasha": "Naso, נשא",
+"Biblical Portion": "Num 4:21 - 7:89"
+},
+{
+"ID": 36,
+"Book": "Bemidbar (Numbers)",
+"Week Number": 36,
+"Parasha": "Behaalotekha, בהעלתך",
+"Biblical Portion": "Num 8:1 - 12:16"
+},
+{
+"ID": 37,
+"Book": "Bemidbar (Numbers)",
+"Week Number": 37,
+"Parasha": "Shelah Lekha, שלח לך",
+"Biblical Portion": "Num 13:1 - 15:41"
+},
+{
+"ID": 38,
+"Book": "Bemidbar (Numbers)",
+"Week Number": 38,
+"Parasha": "Korach, קרח",
+"Biblical Portion": "Num 16:1 - 18:32"
+},
+{
+"ID": 39,
+"Book": "Bemidbar (Numbers)",
+"Week Number": 39,
+"Parasha": "Chukat, חקת",
+"Biblical Portion": "Num 19:1 - 22:1"
+},
+{
+"ID": 40,
+"Book": "Bemidbar (Numbers)",
+"Week Number": 40,
+"Parasha": "Balak, בלק",
+"Biblical Portion": "Num 22:2 - 25:9"
+},
+{
+"ID": 41,
+"Book": "Bemidbar (Numbers)",
+"Week Number": 41,
+"Parasha": "Pinchas, פינחס",
+"Biblical Portion": "Num 25:10 - 30:1"
+},
+{
+"ID": 42,
+"Book": "Bemidbar (Numbers)",
+"Week Number": 42,
+"Parasha": "Matot, מטות",
+"Biblical Portion": "Num 30:2 - 32:42"
+},
+{
+"ID": 43,
+"Book": "Bemidbar (Numbers)",
+"Week Number": 43,
+"Parasha": "Masei, מסעי",
+"Biblical Portion": "Num 33:1 - 36:13"
+},
+{
+"ID": 44,
+"Book": "Devarim (Deuteronomy)",
+"Week Number": 44,
+"Parasha": "Devarim, דברים",
+"Biblical Portion": "Deut 1:1 - 3:22"
+},
+{
+"ID": 45,
+"Book": "Devarim (Deuteronomy)",
+"Week Number": 45,
+"Parasha": "Va’etchanan, ואתחנן",
+"Biblical Portion": "Deut 3:23 - 7:11"
+},
+{
+"ID": 46,
+"Book": "Devarim (Deuteronomy)",
+"Week Number": 46,
+"Parasha": "Ekev, עקב",
+"Biblical Portion": "Deut 7:12 - 11:25"
+},
+{
+"ID": 47,
+"Book": "Devarim (Deuteronomy)",
+"Week Number": 47,
+"Parasha": "Re’eh, ראה",
+"Biblical Portion": "Deut 11:26 - 16:17"
+},
+{
+"ID": 48,
+"Book": "Devarim (Deuteronomy)",
+"Week Number": 48,
+"Parasha": "Shoftim, שופטים",
+"Biblical Portion": "Deut 16:18 - 21:9"
+},
+{
+"ID": 49,
+"Book": "Devarim (Deuteronomy)",
+"Week Number": 49,
+"Parasha": "Ki Tetze, כי תצא",
+"Biblical Portion": "Deut 21:10 - 25:19"
+},
+{
+"ID": 50,
+"Book": "Devarim (Deuteronomy)",
+"Week Number": 50,
+"Parasha": "Ki Tavo, כי תבוא",
+"Biblical Portion": "Deut 26:1 - 29:8"
+},
+{
+"ID": 51,
+"Book": "Devarim (Deuteronomy)",
+"Week Number": 51,
+"Parasha": "Nitzavim, נצבים",
+"Biblical Portion": "Deut 29:9 - 30:20"
+},
+{
+"ID": 52,
+"Book": "Devarim (Deuteronomy)",
+"Week Number": 52,
+"Parasha": "Vayelekh, וילך",
+"Biblical Portion": "Deut 31:1 - 31:30"
+},
+{
+"ID": 53,
+"Book": "Devarim (Deuteronomy)",
+"Week Number": 53,
+"Parasha": "Haazinu, האזינו",
+"Biblical Portion": "Deut 32:1 - 32:52"
+},
+{
+"ID": 54,
+"Book": "Devarim (Deuteronomy)",
+"Week Number": 54,
+"Parasha": "Vezot Haberakhah, וזאת הברכה",
+"Biblical Portion": "Deut 33:1 - 34:12"
+}
+]
