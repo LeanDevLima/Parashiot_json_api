@@ -1,0 +1,380 @@
+[
+{
+"ID": 1,
+"Livro": "Bereshit (Gênesis)",
+"Número da Semana": 1,
+"Parashá": "Bere’shit, בראשית",
+"Porção bíblica": "Gn 1:1 - 6:8"
+},
+{
+"ID": 2,
+"Livro": "Bereshit (Gênesis)",
+"Número da Semana": 2,
+"Parashá": "Noach, נח",
+"Porção bíblica": "Gn 6:9 - 11:32"
+},
+{
+"ID": 3,
+"Livro": "Bereshit (Gênesis)",
+"Número da Semana": 3,
+"Parashá": "Lech Lecha, לך לך",
+"Porção bíblica": "Gn 12:1 - 17:27"
+},
+{
+"ID": 4,
+"Livro": "Bereshit (Gênesis)",
+"Número da Semana": 4,
+"Parashá": "Vayeira, וירא",
+"Porção bíblica": "Gn 18:1 - 22:24"     
+},
+{
+"ID": 5,
+"Livro": "Bereshit (Gênesis)",
+"Número da Semana": 5,
+"Parashá": "Chayei Sarah, חיי שרה",
+"Porção bíblica": "Gn 23:1 - 25:18"
+},
+{
+"ID": 6,
+"Livro": "Bereshit (Gênesis)",
+"Número da Semana": 6,
+"Parashá": "Toledot, תולדות",
+"Porção bíblica": "Gn 25:19 - 28:9"
+},
+{
+"ID": 7,
+"Livro": "Bereshit (Gênesis)",
+"Número da Semana": 7,
+"Parashá": "Vayetze, ויצא",
+"Porção bíblica": "Gn 28:10 - 32:3"
+},
+{
+"ID": 8,
+"Livro": "Bereshit (Gênesis)",
+"Número da Semana": 8,
+"Parashá": "Vayishlach, וישלח",
+"Porção bíblica": "Gn 32:4 - 36:43"
+},
+{
+"ID": 9,
+"Livro": "Bereshit (Gênesis)",
+"Número da Semana": 9,
+"Parashá": "Vayeshev, וישב",
+"Porção bíblica": "Gn 37:1 - 40:23"
+},
+{
+"ID": 10,
+"Livro": "Bereshit (Gênesis)",
+"Número da Semana": 10,
+"Parashá": "Miketz, מקץ",
+"Porção bíblica": "Gn 41:1 - 44:17"
+},
+{
+"ID": 11,
+"Livro": "Bereshit (Gênesis)",
+"Número da Semana": 11,
+"Parashá": "Vayigash, ויגש",
+"Porção bíblica": "Gn 44:18 - 47:27"
+},
+{
+"ID": 12,
+"Livro": "Bereshit (Gênesis)",
+"Número da Semana": 12,
+"Parashá": "Vayechi, ויחי",
+"Porção bíblica": "Gn 47:28 - 50:26"
+},
+{
+"ID": 13,
+"Livro": "Shemot (Êxodo)",
+"Número da Semana": 13,
+"Parashá": "Shemot, שמות",
+"Porção bíblica": "Ex 1:1 - 6:1"
+},
+{
+"ID": 14,
+"Livro": "Shemot (Êxodo)",
+"Número da Semana": 14,
+"Parashá": "Va’eira, וארא",
+"Porção bíblica": "Ex 6:2 - 9:35"
+},
+{
+"ID": 15,
+"Livro": "Shemot (Êxodo)",
+"Número da Semana": 15,
+"Parashá": "Bo, בא",
+"Porção bíblica": "Ex 10:1 - 13:16"
+},
+{
+"ID": 16,
+"Livro": "Shemot (Êxodo)",
+"Número da Semana": 16,
+"Parashá": "Beshalach, בשלח",
+"Porção bíblica": "Ex 13:17 - 17:16"
+},
+{
+"ID": 17,
+"Livro": "Shemot (Êxodo)",
+"Número da Semana": 17,
+"Parashá": "Yitro, יתרו",
+"Porção bíblica": "Ex 18:1 - 20:23"
+},
+{
+"ID": 18,
+"Livro": "Shemot (Êxodo)",
+"Número da Semana": 18,
+"Parashá": "Mishpatim, משפטים",
+"Porção bíblica": "Ex 21:1 - 24:18"
+},
+{
+"ID": 19,
+"Livro": "Shemot (Êxodo)",
+"Número da Semana": 19,
+"Parashá": "Terumah, תרומה",
+"Porção bíblica": "Ex 25:1 - 27:19"
+},
+{
+"ID": 20,
+"Livro": "Shemot (Êxodo)",
+"Número da Semana": 20,
+"Parashá": "Tetzaveh, תצווה",
+"Porção bíblica": "Ex 27:20 - 30:10"
+},
+{
+"ID": 21,
+"Livro": "Shemot (Êxodo)",
+"Número da Semana": 21,
+"Parashá": "Ki Tisa’, כי תשא",
+"Porção bíblica": "Ex 30:11 - 34:35"
+},
+{
+"ID": 22,
+"Livro": "Shemot (Êxodo)",
+"Número da Semana": 22,
+"Parashá": "Vayakhel, ויקהל",
+"Porção bíblica": "Ex 35:1 - 38:20"
+},
+{
+"ID": 23,
+"Livro": "Shemot (Êxodo)",
+"Número da Semana": 23,
+"Parashá": "Pekudey, פקודי",
+"Porção bíblica": "Ex 38:21 - 40:38"
+},
+{
+"ID": 24,
+"Livro": "Vayikrá (Levítico)",
+"Número da Semana": 24,
+"Parashá": "Vayikra’, ויקרא",
+"Porção bíblica": "Lv 1:1 - 5:26"
+},
+{
+"ID": 25,
+"Livro": "Vayikrá (Levítico)",
+"Número da Semana": 25,
+"Parashá": "Tzav, צו",
+"Porção bíblica": "Lv 6:1 - 8:36"
+},
+{
+"ID": 26,
+"Livro": "Vayikrá (Levítico)",
+"Número da Semana": 26,
+"Parashá": "Shemini, שמיני",
+"Porção bíblica": "Lv 9:1 - 11:47"
+},
+{
+"ID": 27,
+"Livro": "Vayikrá (Levítico)",
+"Número da Semana": 27,
+"Parashá": "Tazria, תזריע",
+"Porção bíblica": "Lv 12:1 - 13:59"
+},
+{
+"ID": 28,
+"Livro": "Vayikrá (Levítico)",
+"Número da Semana": 28,
+"Parashá": "Metzora, מצורע",
+"Porção bíblica": "Lv 14:1 - 15:33"
+},
+{
+"ID": 29,
+"Livro": "Vayikrá (Levítico)",
+"Número da Semana": 29,
+"Parashá": "Acharei Mot, אחרי מות",
+"Porção bíblica": "Lv 16:1 - 18:30"
+},
+{
+"ID": 30,
+"Livro": "Vayikrá (Levítico)",
+"Número da Semana": 30,
+"Parashá": "Kedoshim, קדושים",
+"Porção bíblica": "Lv 19:1 - 20:27"
+},
+{
+"ID": 31,
+"Livro": "Vayikrá (Levítico)",
+"Número da Semana": 31,
+"Parashá": "Emor, אמור",
+"Porção bíblica": "Lv 21:1 - 24:23"
+},
+{
+"ID": 32,
+"Livro": "Vayikrá (Levítico)",
+"Número da Semana": 32,
+"Parashá": "Behar, בהר",
+"Porção bíblica": "Lv 25:1 - 26:2"
+},
+{
+"ID": 33,
+"Livro": "Vayikrá (Levítico)",
+"Número da Semana": 33,
+"Parashá": "Bechukotai, בחקותי",
+"Porção bíblica": "Lv 26:3 - 27:34"
+},
+{
+"ID": 34,
+"Livro": "Bemidbar (Números)",
+"Número da Semana": 34,
+"Parashá": "Bemidbar, במדבר",
+"Porção bíblica": "Nm 1:1 - 4:20"
+},
+{
+"ID": 35,
+"Livro": "Bemidbar (Números)",
+"Número da Semana": 35,
+"Parashá": "Naso, נשא",
+"Porção bíblica": "Nm 4:21 - 7:89"
+},
+{
+"ID": 36,
+"Livro": "Bemidbar (Números)",
+"Número da Semana": 36,
+"Parashá": "Behaalotekha, בהעלתך",
+"Porção bíblica": "Nm 8:1 - 12:16"
+},
+{
+"ID": 37,
+"Livro": "Bemidbar (Números)",
+"Número da Semana": 37,
+"Parashá": "Shelah Lekha, שלח לך",
+"Porção bíblica": "Nm 13:1 - 15:41"
+},
+{
+"ID": 38,
+"Livro": "Bemidbar (Números)",
+"Número da Semana": 38,
+"Parashá": "Korach, קרח",
+"Porção bíblica": "Nm 16:1 - 18:32"
+},
+{
+"ID": 39,
+"Livro": "Bemidbar (Números)",
+"Número da Semana": 39,
+"Parashá": "Chukat, חקת",
+"Porção bíblica": "Nm 19:1 - 22:1"
+},
+{
+"ID": 40,
+"Livro": "Bemidbar (Números)",
+"Número da Semana": 40,
+"Parashá": "Balak, בלק",
+"Porção bíblica": "Nm 22:2 - 25:9"
+},
+{
+"ID": 41,
+"Livro": "Bemidbar (Números)",
+"Número da Semana": 41,
+"Parashá": "Pinchas, פינחס",
+"Porção bíblica": "Nm 25:10 - 30:1"
+},
+{
+"ID": 42,
+"Livro": "Bemidbar (Números)",
+"Número da Semana": 42,
+"Parashá": "Matot, מטות",
+"Porção bíblica": "Nm 30:2 - 32:42"
+},
+{
+"ID": 43,
+"Livro": "Bemidbar (Números)",
+"Número da Semana": 43,
+"Parashá": "Masei, מסעי",
+"Porção bíblica": "Nm 33:1 - 36:13"
+},
+{
+"ID": 44,
+"Livro": "Devarim (Deuteronômio)",
+"Número da Semana": 44,
+"Parashá": "Devarim, דברים",
+"Porção bíblica": "Dt 1:1 - 3:22"
+},
+{
+"ID": 45,
+"Livro": "Devarim (Deuteronômio)",
+"Número da Semana": 45,
+"Parashá": "Va’etchanan, ואתחנן",
+"Porção bíblica": "Dt 3:23 - 7:11"
+},
+{
+"ID": 46,
+"Livro": "Devarim (Deuteronômio)",
+"Número da Semana": 46,
+"Parashá": "Ekev, עקב",
+"Porção bíblica": "Dt 7:12 - 11:25"
+},
+{
+"ID": 47,
+"Livro": "Devarim (Deuteronômio)",
+"Número da Semana": 47,
+"Parashá": "Re’eh, ראה",
+"Porção bíblica": "Dt 11:26 - 16:17"
+},
+{
+"ID": 48,
+"Livro": "Devarim (Deuteronômio)",
+"Número da Semana": 48,
+"Parashá": "Shoftim, שופטים",
+"Porção bíblica": "Dt 16:18 - 21:9"
+},
+{
+"ID": 49,
+"Livro": "Devarim (Deuteronômio)",
+"Número da Semana": 49,
+"Parashá": "Ki Tetze, כי תצא",
+"Porção bíblica": "Dt 21:10 - 25:19"
+},
+{
+"ID": 50,
+"Livro": "Devarim (Deuteronômio)",
+"Número da Semana": 50,
+"Parashá": "Ki Tavo, כי תבוא",
+"Porção bíblica": "Dt 26:1 - 29:8"
+},
+{
+"ID": 51,
+"Livro": "Devarim (Deuteronômio)",
+"Número da Semana": 51,
+"Parashá": "Nitzavim, נצבים",
+"Porção bíblica": "Dt 29:9 - 30:20"
+},
+{
+"ID": 52,
+"Livro": "Devarim (Deuteronômio)",
+"Número da Semana": 52,
+"Parashá": "Vayelekh, וילך",
+"Porção bíblica": "Dt 31:1 - 31:30"
+},
+{
+"ID": 53,
+"Livro": "Devarim (Deuteronômio)",
+"Número da Semana": 53,
+"Parashá": "Haazinu, האזינו",
+"Porção bíblica": "Dt 32:1 - 32:52"
+},
+{
+"ID": 54,
+"Livro": "Devarim (Deuteronômio)",
+"Número da Semana": 54,
+"Parashá": "Vezot Haberakhah, וזאת הברכה",
+"Porção bíblica": "Dt 33:1 - 34:12"
+}
+]
