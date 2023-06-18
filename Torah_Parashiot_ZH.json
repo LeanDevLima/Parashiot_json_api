@@ -1,0 +1,380 @@
+[
+{
+"ID": 1,
+"书籍 (shū jí)": "Bereshit (创世纪 (chuàng shì jì))",
+"周数 (zhōu shù)": 1,
+"本周章节 (běn zhōu zhāng jié)": "Bere’shit, בראשית",
+"圣经段落 (shèng jīng duàn luò)": "创 (chuàng) 1:1 - 6:8"
+},
+{
+"ID": 2,
+"书籍 (shū jí)": "Bereshit (创世纪 (chuàng shì jì))",
+"周数 (zhōu shù)": 2,
+"本周章节 (běn zhōu zhāng jié)": "Noach, נח",
+"圣经段落 (shèng jīng duàn luò)": "创 (chuàng) 6:9 - 11:32"
+},
+{
+"ID": 3,
+"书籍 (shū jí)": "Bereshit (创世纪 (chuàng shì jì))",
+"周数 (zhōu shù)": 3,
+"本周章节 (běn zhōu zhāng jié)": "Lech Lecha, לך לך",
+"圣经段落 (shèng jīng duàn luò)": "创 (chuàng) 12:1 - 17:27"
+},
+{
+"ID": 4,
+"书籍 (shū jí)": "Bereshit (创世纪 (chuàng shì jì))",
+"周数 (zhōu shù)": 4,
+"本周章节 (běn zhōu zhāng jié)": "Vayeira, וירא",
+"圣经段落 (shèng jīng duàn luò)": "创 (chuàng) 18:1 - 22:24"     
+},
+{
+"ID": 5,
+"书籍 (shū jí)": "Bereshit (创世纪 (chuàng shì jì))",
+"周数 (zhōu shù)": 5,
+"本周章节 (běn zhōu zhāng jié)": "Chayei Sarah, חיי שרה",
+"圣经段落 (shèng jīng duàn luò)": "创 (chuàng) 23:1 - 25:18"
+},
+{
+"ID": 6,
+"书籍 (shū jí)": "Bereshit (创世纪 (chuàng shì jì))",
+"周数 (zhōu shù)": 6,
+"本周章节 (běn zhōu zhāng jié)": "Toledot, תולדות",
+"圣经段落 (shèng jīng duàn luò)": "创 (chuàng) 25:19 - 28:9"
+},
+{
+"ID": 7,
+"书籍 (shū jí)": "Bereshit (创世纪 (chuàng shì jì))",
+"周数 (zhōu shù)": 7,
+"本周章节 (běn zhōu zhāng jié)": "Vayetze, ויצא",
+"圣经段落 (shèng jīng duàn luò)": "创 (chuàng) 28:10 - 32:3"
+},
+{
+"ID": 8,
+"书籍 (shū jí)": "Bereshit (创世纪 (chuàng shì jì))",
+"周数 (zhōu shù)": 8,
+"本周章节 (běn zhōu zhāng jié)": "Vayishlach, וישלח",
+"圣经段落 (shèng jīng duàn luò)": "创 (chuàng) 32:4 - 36:43"
+},
+{
+"ID": 9,
+"书籍 (shū jí)": "Bereshit (创世纪 (chuàng shì jì))",
+"周数 (zhōu shù)": 9,
+"本周章节 (běn zhōu zhāng jié)": "Vayeshev, וישב",
+"圣经段落 (shèng jīng duàn luò)": "创 (chuàng) 37:1 - 40:23"
+},
+{
+"ID": 10,
+"书籍 (shū jí)": "Bereshit (创世纪 (chuàng shì jì))",
+"周数 (zhōu shù)": 10,
+"本周章节 (běn zhōu zhāng jié)": "Miketz, מקץ",
+"圣经段落 (shèng jīng duàn luò)": "创 (chuàng) 41:1 - 44:17"
+},
+{
+"ID": 11,
+"书籍 (shū jí)": "Bereshit (创世纪 (chuàng shì jì))",
+"周数 (zhōu shù)": 11,
+"本周章节 (běn zhōu zhāng jié)": "Vayigash, ויגש",
+"圣经段落 (shèng jīng duàn luò)": "创 (chuàng) 44:18 - 47:27"
+},
+{
+"ID": 12,
+"书籍 (shū jí)": "Bereshit (创世纪 (chuàng shì jì))",
+"周数 (zhōu shù)": 12,
+"本周章节 (běn zhōu zhāng jié)": "Vayechi, ויחי",
+"圣经段落 (shèng jīng duàn luò)": "创 (chuàng) 47:28 - 50:26"
+},
+{
+"ID": 13,
+"书籍 (shū jí)": "Shemot (出埃及记 (chū āi jí jì))",
+"周数 (zhōu shù)": 13,
+"本周章节 (běn zhōu zhāng jié)": "Shemot, שמות",
+"圣经段落 (shèng jīng duàn luò)": "出 (chū) 1:1 - 6:1"
+},
+{
+"ID": 14,
+"书籍 (shū jí)": "Shemot (出埃及记 (chū āi jí jì))",
+"周数 (zhōu shù)": 14,
+"本周章节 (běn zhōu zhāng jié)": "Va’eira, וארא",
+"圣经段落 (shèng jīng duàn luò)": "出 (chū) 6:2 - 9:35"
+},
+{
+"ID": 15,
+"书籍 (shū jí)": "Shemot (出埃及记 (chū āi jí jì))",
+"周数 (zhōu shù)": 15,
+"本周章节 (běn zhōu zhāng jié)": "Bo, בא",
+"圣经段落 (shèng jīng duàn luò)": "出 (chū) 10:1 - 13:16"
+},
+{
+"ID": 16,
+"书籍 (shū jí)": "Shemot (出埃及记 (chū āi jí jì))",
+"周数 (zhōu shù)": 16,
+"本周章节 (běn zhōu zhāng jié)": "Beshalach, בשלח",
+"圣经段落 (shèng jīng duàn luò)": "出 (chū) 13:17 - 17:16"
+},
+{
+"ID": 17,
+"书籍 (shū jí)": "Shemot (出埃及记 (chū āi jí jì))",
+"周数 (zhōu shù)": 17,
+"本周章节 (běn zhōu zhāng jié)": "Yitro, יתרו",
+"圣经段落 (shèng jīng duàn luò)": "出 (chū) 18:1 - 20:23"
+},
+{
+"ID": 18,
+"书籍 (shū jí)": "Shemot (出埃及记 (chū āi jí jì))",
+"周数 (zhōu shù)": 18,
+"本周章节 (běn zhōu zhāng jié)": "Mishpatim, משפטים",
+"圣经段落 (shèng jīng duàn luò)": "出 (chū) 21:1 - 24:18"
+},
+{
+"ID": 19,
+"书籍 (shū jí)": "Shemot (出埃及记 (chū āi jí jì))",
+"周数 (zhōu shù)": 19,
+"本周章节 (běn zhōu zhāng jié)": "Terumah, תרומה",
+"圣经段落 (shèng jīng duàn luò)": "出 (chū) 25:1 - 27:19"
+},
+{
+"ID": 20,
+"书籍 (shū jí)": "Shemot (出埃及记 (chū āi jí jì))",
+"周数 (zhōu shù)": 20,
+"本周章节 (běn zhōu zhāng jié)": "Tetzaveh, תצווה",
+"圣经段落 (shèng jīng duàn luò)": "出 (chū) 27:20 - 30:10"
+},
+{
+"ID": 21,
+"书籍 (shū jí)": "Shemot (出埃及记 (chū āi jí jì))",
+"周数 (zhōu shù)": 21,
+"本周章节 (běn zhōu zhāng jié)": "Ki Tisa’, כי תשא",
+"圣经段落 (shèng jīng duàn luò)": "出 (chū) 30:11 - 34:35"
+},
+{
+"ID": 22,
+"书籍 (shū jí)": "Shemot (出埃及记 (chū āi jí jì))",
+"周数 (zhōu shù)": 22,
+"本周章节 (běn zhōu zhāng jié)": "Vayakhel, ויקהל",
+"圣经段落 (shèng jīng duàn luò)": "出 (chū) 35:1 - 38:20"
+},
+{
+"ID": 23,
+"书籍 (shū jí)": "Shemot (出埃及记 (chū āi jí jì))",
+"周数 (zhōu shù)": 23,
+"本周章节 (běn zhōu zhāng jié)": "Pekudey, פקודי",
+"圣经段落 (shèng jīng duàn luò)": "出 (chū) 38:21 - 40:38"
+},
+{
+"ID": 24,
+"书籍 (shū jí)": "Vayikrá (利未记 (lì wèi jì))",
+"周数 (zhōu shù)": 24,
+"本周章节 (běn zhōu zhāng jié)": "Vayikra’, ויקרא",
+"圣经段落 (shèng jīng duàn luò)": "利 (lì) 1:1 - 5:26"
+},
+{
+"ID": 25,
+"书籍 (shū jí)": "Vayikrá (利未记 (lì wèi jì))",
+"周数 (zhōu shù)": 25,
+"本周章节 (běn zhōu zhāng jié)": "Tzav, צו",
+"圣经段落 (shèng jīng duàn luò)": "利 (lì) 6:1 - 8:36"
+},
+{
+"ID": 26,
+"书籍 (shū jí)": "Vayikrá (利未记 (lì wèi jì))",
+"周数 (zhōu shù)": 26,
+"本周章节 (běn zhōu zhāng jié)": "Shemini, שמיני",
+"圣经段落 (shèng jīng duàn luò)": "利 (lì) 9:1 - 11:47"
+},
+{
+"ID": 27,
+"书籍 (shū jí)": "Vayikrá (利未记 (lì wèi jì))",
+"周数 (zhōu shù)": 27,
+"本周章节 (běn zhōu zhāng jié)": "Tazria, תזריע",
+"圣经段落 (shèng jīng duàn luò)": "利 (lì) 12:1 - 13:59"
+},
+{
+"ID": 28,
+"书籍 (shū jí)": "Vayikrá (利未记 (lì wèi jì))",
+"周数 (zhōu shù)": 28,
+"本周章节 (běn zhōu zhāng jié)": "Metzora, מצורע",
+"圣经段落 (shèng jīng duàn luò)": "利 (lì) 14:1 - 15:33"
+},
+{
+"ID": 29,
+"书籍 (shū jí)": "Vayikrá (利未记 (lì wèi jì))",
+"周数 (zhōu shù)": 29,
+"本周章节 (běn zhōu zhāng jié)": "Acharei Mot, אחרי מות",
+"圣经段落 (shèng jīng duàn luò)": "利 (lì) 16:1 - 18:30"
+},
+{
+"ID": 30,
+"书籍 (shū jí)": "Vayikrá (利未记 (lì wèi jì))",
+"周数 (zhōu shù)": 30,
+"本周章节 (běn zhōu zhāng jié)": "Kedoshim, קדושים",
+"圣经段落 (shèng jīng duàn luò)": "利 (lì) 19:1 - 20:27"
+},
+{
+"ID": 31,
+"书籍 (shū jí)": "Vayikrá (利未记 (lì wèi jì))",
+"周数 (zhōu shù)": 31,
+"本周章节 (běn zhōu zhāng jié)": "Emor, אמור",
+"圣经段落 (shèng jīng duàn luò)": "利 (lì) 21:1 - 24:23"
+},
+{
+"ID": 32,
+"书籍 (shū jí)": "Vayikrá (利未记 (lì wèi jì))",
+"周数 (zhōu shù)": 32,
+"本周章节 (běn zhōu zhāng jié)": "Behar, בהר",
+"圣经段落 (shèng jīng duàn luò)": "利 (lì) 25:1 - 26:2"
+},
+{
+"ID": 33,
+"书籍 (shū jí)": "Vayikrá (利未记 (lì wèi jì))",
+"周数 (zhōu shù)": 33,
+"本周章节 (běn zhōu zhāng jié)": "Bechukotai, בחקותי",
+"圣经段落 (shèng jīng duàn luò)": "利 (lì) 26:3 - 27:34"
+},
+{
+"ID": 34,
+"书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+"周数 (zhōu shù)": 34,
+"本周章节 (běn zhōu zhāng jié)": "Bemidbar, במדבר",
+"圣经段落 (shèng jīng duàn luò)": "民 (mín) 1:1 - 4:20"
+},
+{
+"ID": 35,
+"书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+"周数 (zhōu shù)": 35,
+"本周章节 (běn zhōu zhāng jié)": "Naso, נשא",
+"圣经段落 (shèng jīng duàn luò)": "民 (mín) 4:21 - 7:89"
+},
+{
+"ID": 36,
+"书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+"周数 (zhōu shù)": 36,
+"本周章节 (běn zhōu zhāng jié)": "Behaalotekha, בהעלתך",
+"圣经段落 (shèng jīng duàn luò)": "民 (mín) 8:1 - 12:16"
+},
+{
+"ID": 37,
+"书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+"周数 (zhōu shù)": 37,
+"本周章节 (běn zhōu zhāng jié)": "Shelah Lekha, שלח לך",
+"圣经段落 (shèng jīng duàn luò)": "民 (mín) 13:1 - 15:41"
+},
+{
+"ID": 38,
+"书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+"周数 (zhōu shù)": 38,
+"本周章节 (běn zhōu zhāng jié)": "Korach, קרח",
+"圣经段落 (shèng jīng duàn luò)": "民 (mín) 16:1 - 18:32"
+},
+{
+"ID": 39,
+"书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+"周数 (zhōu shù)": 39,
+"本周章节 (běn zhōu zhāng jié)": "Chukat, חקת",
+"圣经段落 (shèng jīng duàn luò)": "民 (mín) 19:1 - 22:1"
+},
+{
+"ID": 40,
+"书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+"周数 (zhōu shù)": 40,
+"本周章节 (běn zhōu zhāng jié)": "Balak, בלק",
+"圣经段落 (shèng jīng duàn luò)": "民 (mín) 22:2 - 25:9"
+},
+{
+"ID": 41,
+"书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+"周数 (zhōu shù)": 41,
+"本周章节 (běn zhōu zhāng jié)": "Pinchas, פינחס",
+"圣经段落 (shèng jīng duàn luò)": "民 (mín) 25:10 - 30:1"
+},
+{
+"ID": 42,
+"书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+"周数 (zhōu shù)": 42,
+"本周章节 (běn zhōu zhāng jié)": "Matot, מטות",
+"圣经段落 (shèng jīng duàn luò)": "民 (mín) 30:2 - 32:42"
+},
+{
+"ID": 43,
+"书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+"周数 (zhōu shù)": 43,
+"本周章节 (běn zhōu zhāng jié)": "Masei, מסעי",
+"圣经段落 (shèng jīng duàn luò)": "民 (mín) 33:1 - 36:13"
+},
+{
+"ID": 44,
+"书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+"周数 (zhōu shù)": 44,
+"本周章节 (běn zhōu zhāng jié)": "Devarim, דברים",
+"圣经段落 (shèng jīng duàn luò)": "申 (shēn) 1:1 - 3:22"
+},
+{
+"ID": 45,
+"书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+"周数 (zhōu shù)": 45,
+"本周章节 (běn zhōu zhāng jié)": "Va’etchanan, ואתחנן",
+"圣经段落 (shèng jīng duàn luò)": "申 (shēn) 3:23 - 7:11"
+},
+{
+"ID": 46,
+"书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+"周数 (zhōu shù)": 46,
+"本周章节 (běn zhōu zhāng jié)": "Ekev, עקב",
+"圣经段落 (shèng jīng duàn luò)": "申 (shēn) 7:12 - 11:25"
+},
+{
+"ID": 47,
+"书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+"周数 (zhōu shù)": 47,
+"本周章节 (běn zhōu zhāng jié)": "Re’eh, ראה",
+"圣经段落 (shèng jīng duàn luò)": "申 (shēn) 11:26 - 16:17"
+},
+{
+"ID": 48,
+"书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+"周数 (zhōu shù)": 48,
+"本周章节 (běn zhōu zhāng jié)": "Shoftim, שופטים",
+"圣经段落 (shèng jīng duàn luò)": "申 (shēn) 16:18 - 21:9"
+},
+{
+"ID": 49,
+"书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+"周数 (zhōu shù)": 49,
+"本周章节 (běn zhōu zhāng jié)": "Ki Tetze, כי תצא",
+"圣经段落 (shèng jīng duàn luò)": "申 (shēn) 21:10 - 25:19"
+},
+{
+"ID": 50,
+"书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+"周数 (zhōu shù)": 50,
+"本周章节 (běn zhōu zhāng jié)": "Ki Tavo, כי תבוא",
+"圣经段落 (shèng jīng duàn luò)": "申 (shēn) 26:1 - 29:8"
+},
+{
+"ID": 51,
+"书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+"周数 (zhōu shù)": 51,
+"本周章节 (běn zhōu zhāng jié)": "Nitzavim, נצבים",
+"圣经段落 (shèng jīng duàn luò)": "申 (shēn) 29:9 - 30:20"
+},
+{
+"ID": 52,
+"书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+"周数 (zhōu shù)": 52,
+"本周章节 (běn zhōu zhāng jié)": "Vayelekh, וילך",
+"圣经段落 (shèng jīng duàn luò)": "申 (shēn) 31:1 - 31:30"
+},
+{
+"ID": 53,
+"书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+"周数 (zhōu shù)": 53,
+"本周章节 (běn zhōu zhāng jié)": "Haazinu, האזינו",
+"圣经段落 (shèng jīng duàn luò)": "申 (shēn) 32:1 - 32:52"
+},
+{
+"ID": 54,
+"书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+"周数 (zhōu shù)": 54,
+"本周章节 (běn zhōu zhāng jié)": "Vezot Haberakhah, וזאת הברכה",
+"圣经段落 (shèng jīng duàn luò)": "申 (shēn) 33:1 - 34:12"
+}
+]
