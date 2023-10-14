@@ -376,5 +376,89 @@
 "Week Number": 54,
 "Parasha": "Vezot Haberakhah, וזאת הברכה",
 "Biblical Portion": "Deut 33:1 - 34:12"
+},
+{
+    "ID": 55,
+    "Book": "Bemidbar (Numbers)",
+    "Week Number": 55,
+    "Parasha": "Bemidbar, במדבר",
+    "Biblical Portion": "Num 1:1 - 4:20"
+},
+{
+    "ID": 56,
+    "Book": "Bemidbar (Numbers)",
+    "Week Number": 56,
+    "Parasha": "Naso, נשא",
+    "Biblical Portion": "Num 4:21 - 7:89"
+},
+{
+    "ID": 57,
+    "Book": "Bemidbar (Numbers)",
+    "Week Number": 57,
+    "Parasha": "Beha'alotekha, בהעלתך",
+    "Biblical Portion": "Num 8:1 - 12:16"
+},
+{
+    "ID": 58,
+    "Book": "Bemidbar (Numbers)",
+    "Week Number": 58,
+    "Parasha": "Shelach, שלח",
+    "Biblical Portion": "Num 13:1 - 15:41"
+},
+{
+    "ID": 59,
+    "Book": "Bemidbar (Numbers)",
+    "Week Number": 59,
+    "Parasha": "Korach, קרח",
+    "Biblical Portion": "Num 16:1 - 18:32"
+},
+{
+    "ID": 60,
+    "Book": "Bemidbar (Numbers)",
+    "Week Number": 60,
+    "Parasha": "Chukat, חקת",
+    "Biblical Portion": "Num 19:1 - 22:1"
+},
+{
+    "ID": 61,
+    "Book": "Bemidbar (Numbers)",
+    "Week Number": 61,
+    "Parasha": "Balak, בלק",
+    "Biblical Portion": "Num 22:2 - 25:9"
+},
+{
+    "ID": 62,
+    "Book": "Bemidbar (Numbers)",
+    "Week Number": 62,
+    "Parasha": "Pinchas, פינחס",
+    "Biblical Portion": "Num 25:10 - 30:1"
+},
+{
+    "ID": 63,
+    "Book": "Bemidbar (Numbers)",
+    "Week Number": 63,
+    "Parasha": "Matot, מטות",
+    "Biblical Portion": "Num 30:2 - 32:42"
+},
+{
+    "ID": 64,
+    "Book": "Bemidbar (Numbers)",
+    "Week Number": 64,
+    "Parasha": "Masei, מסעי",
+    "Biblical Portion": "Num 33:1 - 36:13"
+},
+{
+    "ID": 65,
+    "Book": "Devarim (Deuteronomy)",
+    "Week Number": 65,
+    "Parasha": "Re’eh, ראה",
+    "Biblical Portion": "Deut 11:26 - 16:17"
+},
+{
+    "ID": 66,
+    "Book": "Devarim (Deuteronomy)",
+    "Week Number": 66,
+    "Parasha": "Shoftim, שופטים",
+    "Biblical Portion": "Deut 16:18 - 21:9"
 }
 ]

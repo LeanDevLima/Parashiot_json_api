@@ -376,5 +376,89 @@
 "Número da Semana": 54,
 "Parashá": "Vezot Haberakhah, וזאת הברכה",
 "Porção bíblica": "Dt 33:1 - 34:12"
+},
+{
+    "ID": 55,
+    "Livro": "Bereshit (Gênesis)",
+    "Número da Semana": 1,
+    "Parashá": "Bereshit, בראשית",
+    "Porção bíblica": "Gn 1:1 - 6:8"
+},
+{
+    "ID": 56,
+    "Livro": "Bereshit (Gênesis)",
+    "Número da Semana": 2,
+    "Parashá": "Noach, נח",
+    "Porção bíblica": "Gn 6:9 - 11:32"
+},
+{
+    "ID": 57,
+    "Livro": "Bereshit (Gênesis)",
+    "Número da Semana": 3,
+    "Parashá": "Lech-Lecha, לך לך",
+    "Porção bíblica": "Gn 12:1 - 17:27"
+},
+{
+    "ID": 58,
+    "Livro": "Bereshit (Gênesis)",
+    "Número da Semana": 4,
+    "Parashá": "Vayera, וירא",
+    "Porção bíblica": "Gn 18:1 - 22:24"
+},
+{
+    "ID": 59,
+    "Livro": "Bereshit (Gênesis)",
+    "Número da Semana": 5,
+    "Parashá": "Chayei Sarah, חיי שרה",
+    "Porção bíblica": "Gn 23:1 - 25:18"
+},
+{
+    "ID": 60,
+    "Livro": "Bereshit (Gênesis)",
+    "Número da Semana": 6,
+    "Parashá": "Toldot, תולדות",
+    "Porção bíblica": "Gn 25:19 - 28:9"
+},
+{
+    "ID": 61,
+    "Livro": "Bereshit (Gênesis)",
+    "Número da Semana": 7,
+    "Parashá": "Vayetze, ויצא",
+    "Porção bíblica": "Gn 28:10 - 32:3"
+},
+{
+    "ID": 62,
+    "Livro": "Bereshit (Gênesis)",
+    "Número da Semana": 8,
+    "Parashá": "Vayishlach, וישלח",
+    "Porção bíblica": "Gn 32:4 - 36:43"
+},
+{
+    "ID": 63,
+    "Livro": "Bereshit (Gênesis)",
+    "Número da Semana": 9,
+    "Parashá": "Vayeshev, וישב",
+    "Porção bíblica": "Gn 37:1 - 40:23"
+},
+{
+    "ID": 64,
+    "Livro": "Bereshit (Gênesis)",
+    "Número da Semana": 10,
+    "Parashá": "Miketz, מקץ",
+    "Porção bíblica": "Gn 41:1 - 44:17"
+},
+{
+    "ID": 65,
+    "Livro": "Bereshit (Gênesis)",
+    "Número da Semana": 11,
+    "Parashá": "Vayigash, ויגש",
+    "Porção bíblica": "Gn 44:18 - 47:27"
+},
+{
+    "ID": 66,
+    "Livro": "Bereshit (Gênesis)",
+    "Número da Semana": 12,
+    "Parashá": "Vayechi, ויחי",
+    "Porção bíblica": "Gn 47:28 - 50:26"
 }
 ]

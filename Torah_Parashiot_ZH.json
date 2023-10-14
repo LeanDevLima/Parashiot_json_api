@@ -376,5 +376,89 @@
 "周数 (zhōu shù)": 54,
 "本周章节 (běn zhōu zhāng jié)": "Vezot Haberakhah, וזאת הברכה",
 "圣经段落 (shèng jīng duàn luò)": "申 (shēn) 33:1 - 34:12"
+},
+{
+    "ID": 55,
+    "书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+    "周数 (zhōu shù)": 55,
+    "本周章节 (běn zhōu zhāng jié)": "Bemidbar, במדבר",
+    "圣经段落 (shèng jīng duàn luò)": "Num 1:1 - 4:20"
+},
+{
+    "ID": 56,
+    "书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+    "周数 (zhōu shù)": 56,
+    "本周章节 (běn zhōu zhāng jié)": "Naso, נשא",
+    "圣经段落 (shèng jīng duàn luò)": "Num 4:21 - 7:89"
+},
+{
+    "ID": 57,
+    "书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+    "周数 (zhōu shù)": 57,
+    "本周章节 (běn zhōu zhāng jié)": "Beha'alotekha, בהעלתך",
+    "圣经段落 (shèng jīng duàn luò)": "Num 8:1 - 12:16"
+},
+{
+    "ID": 58,
+    "书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+    "周数 (zhōu shù)": 58,
+    "本周章节 (běn zhōu zhāng jié)": "Shelach, שלח",
+    "圣经段落 (shèng jīng duàn luò)": "Num 13:1 - 15:41"
+},
+{
+    "ID": 59,
+    "书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+    "周数 (zhōu shù)": 59,
+    "本周章节 (běn zhōu zhāng jié)": "Korach, קרח",
+    "圣经段落 (shèng jīng duàn luò)": "Num 16:1 - 18:32"
+},
+{
+    "ID": 60,
+    "书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+    "周数 (zhōu shù)": 60,
+    "本周章节 (běn zhōu zhāng jié)": "Chukat, חקת",
+    "圣经段落 (shèng jīng duàn luò)": "Num 19:1 - 22:1"
+},
+{
+    "ID": 61,
+    "书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+    "周数 (zhōu shù)": 61,
+    "本周章节 (běn zhōu zhāng jié)": "Balak, בלק",
+    "圣经段落 (shèng jīng duàn luò)": "Num 22:2 - 25:9"
+},
+{
+    "ID": 62,
+    "书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+    "周数 (zhōu shù)": 62,
+    "本周章节 (běn zhōu zhāng jié)": "Pinchas, פינחס",
+    "圣经段落 (shèng jīng duàn luò)": "Num 25:10 - 30:1"
+},
+{
+    "ID": 63,
+    "书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+    "周数 (zhōu shù)": 63,
+    "本周章节 (běn zhōu zhāng jié)": "Matot, מטות",
+    "圣经段落 (shèng jīng duàn luò)": "Num 30:2 - 32:42"
+},
+{
+    "ID": 64,
+    "书籍 (shū jí)": "Bemidbar (民数记 (mín shù jì))",
+    "周数 (zhōu shù)": 64,
+    "本周章节 (běn zhōu zhāng jié)": "Masei, מסעי",
+    "圣经段落 (shèng jīng duàn luò)": "Num 33:1 - 36:13"
+},
+{
+    "ID": 65,
+    "书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+    "周数 (zhōu shù)": 65,
+    "本周章节 (běn zhōu zhāng jié)": "Re’eh, ראה",
+    "圣经段落 (shèng jīng duàn luò)": "申 (shēn) 11:26 - 16:17"
+},
+{
+    "ID": 66,
+    "书籍 (shū jí)": "Devarim (申命记 (shēn mìng jì))",
+    "周数 (zhōu shù)": 66,
+    "本周章节 (běn zhōu zhāng jié)": "Shoftim, שופטים",
+    "圣经段落 (shèng jīng duàn luò)": "申 (shēn) 16:18 - 21:9"
 }
 ]

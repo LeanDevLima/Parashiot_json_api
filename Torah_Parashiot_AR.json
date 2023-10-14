@@ -376,5 +376,76 @@
 " رقم الأسبوع (raqm al-usbu')": 54,
 "بَرَشَة (barashah)": "Vezot Haberakhah, וזאת הברכה",
 "جُزْءٌ من الكِتَابِ المُقَدَّسِ (juz'un min al-kitab al-muqaddas)": "تث (Thath) 33:1 - 34:12"
+},
+{
+    "ID": 57,
+    "كِتَاب (kitab)": "Bemidbar (سُفُر العَدَد (sufur al-'adad))",
+    " رقم الأسبوع (raqm al-usbu')": 57,
+    "بَرَشَة (barashah)": "Pinchas, פִּינְחָס",
+    "جُزْءٌ من الكِتَابِ المُقَدَّسِ (juz'un min al-kitab al-muqaddas)": "عد (Ad) 25:10 - 30:1"
+},
+{
+    "ID": 58,
+    "كِتَاب (kitab)": "Bemidbar (سُفُر العَدَد (sufur al-'adad))",
+    " رقم الأسبوع (raqm al-usbu')": 58,
+    "بَرَشَة (barashah)": "Matot, מטות",
+    "جُزْءٌ من الكِتَابِ المُقَدَّسِ (juz'un min al-kitab al-muqaddas)": "عد (Ad) 30:2 - 32:42"
+},
+{
+    "ID": 59,
+    "كِتَاب (kitab)": "Bemidbar (سُفُر العَدَد (sufur al-'adad))",
+    " رقم الأسبوع (raqm al-usbu')": 59,
+    "بَرَشَة (barashah)": "Masei, מסעי",
+    "جُزْءٌ من الكِتَابِ المُقدَّسِ (juz'un min al-kitab al-muqaddas)": "عد (Ad) 33:1 - 36:13"
+},
+{
+    "ID": 60,
+    "كِتَاب (kitab)": "Devarim (سُفُر التَّثْنِية (sufur al-tathniyah))",
+    " رقم الأسبوع (raqm al-usbu')": 60,
+    "بَرَشَة (barashah)": "Va’etchanan, ואתחנן",
+    "جُزْءٌ من الكِتَابِ المُقدَّسِ (juz'un min al-kitab al-muqaddas)": "تث (Thath) 3:23 - 7:11"
+},
+{
+    "ID": 61,
+    "كِتَاب (kitab)": "Devarim (سُفُر التَّثْنِية (sufur al-tathniyah))",
+    " رقم الأسبوع (raqm al-usbu')": 61,
+    "بَرَشَة (barashah)": "Ekev, עקב",
+    "جُزْءٌ من الكِتَابِ المُقدَّسِ (juz'un min al-kitab al-muqaddas)": "تث (Thath) 7:12 - 11:25"
+},
+{
+    "ID": 62,
+    "كِتَاب (kitab)": "Devarim (سُفُر التَّثْنِية (sufur al-tathniyah))",
+    " رقم الأسبوع (raqm al-usbu')": 62,
+    "بَرَشَة (barashah)": "Re’eh, ראה",
+    "جُزءٌ من الكِتابِ المُقدَّسِ (juz'un min al-kitab al-muqaddas)": "تث (Thath) 11:26 - 16:17"
+},
+{
+    "ID": 63,
+    "كِتَاب (kitab)": "Devarim (سُفُر التَّثْنِية (sufur al-tathniyah))",
+    " رقم الأسبوع (raqm al-usbu')": 63,
+    "بَرَشة (barashah)": "Shoftim, שופטים",
+    "جُزءٌ من الكِتابِ المُقدَّسِ (juz'un min al-kitab al-muqaddas)": "تث (Thath) 16:18 - 21:9"
+},
+{
+    "ID": 64,
+    "كِتَاب (kitab)": "Devarim (سُفُر التَّثْنِية (sufur al-tathniyah))",
+    "رقم الأسبوع (raqm al-usbu')": 64,
+    "بَرَشَة (barashah)": "Ki Tetze, כי תצא",
+    "جُزءٌ من الكِتابِ المُقدَّسِ (juz'un min al-kitab al-muqaddas)": "تث (Thath) 21:10 - 25:19"
+},
+{
+    "ID": 65,
+    "كِتَاب (kitab)": "Devarim (سُفُر التَّثْنِية (sufur al-tathniyah))",
+    "رقم الأسبوع (raqm al-usbu')": 65,
+    "بَرَشَة (barashah)": "Ki Tavo, כי תבוא",
+    "جُزءٌ من الكِتابِ المُقدَّسِ (juz'un min al-kitab al-muqaddas)": "تث (Thath) 26:1 - 29:8"
+},
+{
+    "ID": 66,
+    "كِتَاب (kitab)": "Devarim (سُفُر التَّثْنِية (sufur al-tathniyah))",
+    "رقم الأسبوع (raqm al-usbu')": 66,
+    "بَرَشَة (barashah)": "Nitzavim, נצבים",
+    "جُزءٌ من الكِتابِ المُقدَّسِ (juz'un min al-kitab al-muqaddas)": "تث (Thath) 29:9 - 30:20"
 }
+
 ]
