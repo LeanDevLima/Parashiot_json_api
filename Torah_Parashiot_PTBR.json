@@ -371,94 +371,94 @@
 "Porção bíblica": "Dt 32:1 - 32:52"
 },
 {
-"ID": 54,
-"Livro": "Devarim (Deuteronômio)",
-"Número da Semana": 54,
-"Parashá": "Vezot Haberakhah, וזאת הברכה",
-"Porção bíblica": "Dt 33:1 - 34:12"
+    "ID": 54,
+    "Livro": "Devarim (Deuteronômio)",
+    "Número da Semana": 54,
+    "Parashá": "Vezot Haberakhah, וְזֹאת הַבְּרָכָה",
+    "Porção bíblica": "Dt 33:1 - 34:12"
 },
 {
     "ID": 55,
-    "Livro": "Bereshit (Gênesis)",
-    "Número da Semana": 1,
-    "Parashá": "Bereshit, בראשית",
-    "Porção bíblica": "Gn 1:1 - 6:8"
+    "Livro": "Bemidbar (Números)",
+    "Número da Semana": 55,
+    "Parashá": "Bemidbar, במדבר",
+    "Porção bíblica": "Num 1:1 - 4:20"
 },
 {
     "ID": 56,
-    "Livro": "Bereshit (Gênesis)",
-    "Número da Semana": 2,
-    "Parashá": "Noach, נח",
-    "Porção bíblica": "Gn 6:9 - 11:32"
+    "Livro": "Bemidbar (Números)",
+    "Número da Semana": 56,
+    "Parashá": "Naso, נשא",
+    "Porção bíblica": "Num 4:21 - 7:89"
 },
 {
     "ID": 57,
-    "Livro": "Bereshit (Gênesis)",
-    "Número da Semana": 3,
-    "Parashá": "Lech-Lecha, לך לך",
-    "Porção bíblica": "Gn 12:1 - 17:27"
+    "Livro": "Bemidbar (Números)",
+    "Número da Semana": 57,
+    "Parashá": "Beha'alotekha, בהעלתך",
+    "Porção bíblica": "Num 8:1 - 12:16"
 },
 {
     "ID": 58,
-    "Livro": "Bereshit (Gênesis)",
-    "Número da Semana": 4,
-    "Parashá": "Vayera, וירא",
-    "Porção bíblica": "Gn 18:1 - 22:24"
+    "Livro": "Bemidbar (Números)",
+    "Número da Semana": 58,
+    "Parashá": "Shelach, שלח",
+    "Porção bíblica": "Num 13:1 - 15:41"
 },
 {
     "ID": 59,
-    "Livro": "Bereshit (Gênesis)",
-    "Número da Semana": 5,
-    "Parashá": "Chayei Sarah, חיי שרה",
-    "Porção bíblica": "Gn 23:1 - 25:18"
+    "Livro": "Bemidbar (Números)",
+    "Número da Semana": 59,
+    "Parashá": "Korach, קרח",
+    "Porção bíblica": "Num 16:1 - 18:32"
 },
 {
     "ID": 60,
-    "Livro": "Bereshit (Gênesis)",
-    "Número da Semana": 6,
-    "Parashá": "Toldot, תולדות",
-    "Porção bíblica": "Gn 25:19 - 28:9"
+    "Livro": "Bemidbar (Números)",
+    "Número da Semana": 60,
+    "Parashá": "Chukat, חקת",
+    "Porção bíblica": "Num 19:1 - 22:1"
 },
 {
     "ID": 61,
-    "Livro": "Bereshit (Gênesis)",
-    "Número da Semana": 7,
-    "Parashá": "Vayetze, ויצא",
-    "Porção bíblica": "Gn 28:10 - 32:3"
+    "Livro": "Bemidbar (Números)",
+    "Número da Semana": 61,
+    "Parashá": "Balak, בלק",
+    "Porção bíblica": "Num 22:2 - 25:9"
 },
 {
     "ID": 62,
-    "Livro": "Bereshit (Gênesis)",
-    "Número da Semana": 8,
-    "Parashá": "Vayishlach, וישלח",
-    "Porção bíblica": "Gn 32:4 - 36:43"
+    "Livro": "Bemidbar (Números)",
+    "Número da Semana": 62,
+    "Parashá": "Pinchas, פינחס",
+    "Porção bíblica": "Num 25:10 - 30:1"
 },
 {
     "ID": 63,
-    "Livro": "Bereshit (Gênesis)",
-    "Número da Semana": 9,
-    "Parashá": "Vayeshev, וישב",
-    "Porção bíblica": "Gn 37:1 - 40:23"
+    "Livro": "Bemidbar (Números)",
+    "Número da Semana": 63,
+    "Parashá": "Matot, מטות",
+    "Porção bíblica": "Num 30:2 - 32:42"
 },
 {
     "ID": 64,
-    "Livro": "Bereshit (Gênesis)",
-    "Número da Semana": 10,
-    "Parashá": "Miketz, מקץ",
-    "Porção bíblica": "Gn 41:1 - 44:17"
+    "Livro": "Bemidbar (Números)",
+    "Número da Semana": 64,
+    "Parashá": "Masei, מסעי",
+    "Porção bíblica": "Num 33:1 - 36:13"
 },
 {
     "ID": 65,
-    "Livro": "Bereshit (Gênesis)",
-    "Número da Semana": 11,
-    "Parashá": "Vayigash, ויגש",
-    "Porção bíblica": "Gn 44:18 - 47:27"
+    "Livro": "Devarim (Deuteronômio)",
+    "Número da Semana": 65,
+    "Parashá": "Re’eh, ראה",
+    "Porção bíblica": "Deut 11:26 - 16:17"
 },
 {
     "ID": 66,
-    "Livro": "Bereshit (Gênesis)",
-    "Número da Semana": 12,
-    "Parashá": "Vayechi, ויחי",
-    "Porção bíblica": "Gn 47:28 - 50:26"
+    "Livro": "Devarim (Deuteronômio)",
+    "Número da Semana": 66,
+    "Parashá": "Shoftim, שופטים",
+    "Porção bíblica": "Deut 16:18 - 21:9"
 }
 ]
